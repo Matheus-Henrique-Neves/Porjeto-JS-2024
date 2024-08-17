@@ -1,0 +1,15 @@
+{
+  "name": "porjeto-js-2024",
+  "version": "1.0.0",
+  "description": "Objetivo é de fazer todos os exercicios de algoritmos do professor guanabara",
+  "main": "Exercicio01.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Henrique Almeida Vieira Neves",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
